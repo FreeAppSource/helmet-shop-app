@@ -1,0 +1,28 @@
+{
+ "app": "Helmet Shop App",
+ "start": "home",
+ "screens": [
+  {
+   "slug": "home",
+   "name": "Home",
+   "page": "MAIN",
+   "w": 463,
+   "h": 948,
+   "elements": 24,
+   "links": 1
+  },
+  {
+   "slug": "product",
+   "name": "Product",
+   "page": "MAIN",
+   "w": 440,
+   "h": 948,
+   "elements": 61,
+   "links": 5
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "nunito-sans"
+ ]
+}
